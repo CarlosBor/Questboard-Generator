@@ -1,0 +1,18 @@
+Posibilidades-
+1- Generador automatico con estilos.
+2- Generador generico? Textos como "Se busca a quien logre matar a <Rellenar hueco>, razon: <Cosa>"?
+3- Generador con morralla, algunas de las misiones seran relleno
+4- Selector de estilos individual
+
+Tengo que hacer una libreria que genere divs con estilos modificables y que acepte parametros para crear dichos divs
+Graficos de tablon y hojas con vectores?
+Estilos de fuente opcion importante
+Preparar para imprimir?
+
+Por un lado esta como funciona la presentacion, por otro como funciona el contenido.
+---------------------------------------------
+En primera instancia hacer un editor, luego puedo hacer la parte de contenido o no sin problema.
+
+Graficos svg que contienen a un div, el div es transparente y solo maneja las cuestiones relativas a la fuente, el svg crea el grafico del papel.
+
+Hacer pruebas con svg.
